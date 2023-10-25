@@ -7,8 +7,6 @@
 #### 💙 Interested in 💙 
 data science
 
-#### Contact
-<a href="https://blog.naver.com/minminyou_" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 
 
 #### 🌱 Once I've used 🌱
@@ -19,6 +17,13 @@ data science
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
 </P>
+
+
+
+#### Contact
+<a href="https://blog.naver.com/minminyou_" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+
+
 
 <br>
 <br>
