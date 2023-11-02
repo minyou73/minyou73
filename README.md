@@ -20,23 +20,7 @@ data science
 
 
 
-#### Contact
-<a href="https://blog.naver.com/minminyou_" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 
-
-
-<br>
-<br>
-
-<p>
-
-[![minyou73's GitHub stats](https://github-readme-stats.vercel.app/api?username=miny&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/minyou73/github-readme-stats)
-  
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyou73&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
-
-</div>
 
 
 
